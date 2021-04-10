@@ -4,7 +4,7 @@ on:
   create:
     branches: master
 
-# I used the following project as template to get started:
+# I used the following project as template to get started: 
 # https://github.com/dessant/search-by-image/blob/master/.github/workflows/ci.yml
 
 jobs:
